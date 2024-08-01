@@ -1,16 +1,15 @@
-## Hi there 👋
+ ### Boas vindas ao meu perfil  🖤
+ 
+ `Meu nome é Damalis`
+ 
+   - Estou estudando no github[alura](https://www.alura.com.br)
+ - Estou me desenvolvendo na linguagem JavaScript
+ - Utilizo esse espaço para minha organização e compartilhamento do meus projetos desenvolvimentos
 
-<!--
-**damalisnascimento/damalisnascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Vocẽ entrar em comigo 💙
 
-Here are some ideas to get you started:
+damalis.nascimento@escola.pr.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@damalis.nascimento
+
+![](https://media.tenor.com/kJVNO4K5a2UAAAAM/chal-mere-ghode.gif)
